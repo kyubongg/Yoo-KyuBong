@@ -40,7 +40,7 @@
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{rbqhd9709})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={rbqhd9709})](https://solved.ac/{rbqhd9709})
 
 <br>
 
