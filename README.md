@@ -60,9 +60,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyubongg&show_icons=true&theme=radical&bg_color=1c1c1c&title_color=6DB33F&text_color=ffffff" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyubongg&layout=compact&theme=radical&bg_color=1c1c1c&title_color=6DB33F&text_color=ffffff" height="180px" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kyubongg&show_icons=true&theme=radical&bg_color=1c1c1c&title_color=6DB33F&text_color=ffffff" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyubongg&layout=compact&theme=radical&bg_color=1c1c1c&title_color=6DB33F&text_color=ffffff" alt="Top Languages" height="180px" />
+</div>>
 
 <br>
 
