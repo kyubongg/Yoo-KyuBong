@@ -49,26 +49,13 @@
 
 ---
 
-## 🏆 Algorithms & Stats
+## 🏆 Algorithms
 
 <div align="center">
   <a href="https://solved.ac/rbqhd9709">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=rbqhd9709" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyubongg&theme=react-dark&area=true&hide_border=true" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/kyubongg?style=social" />
-  <img src="https://img.shields.io/github/stars/kyubongg?style=social" />
-</div>>
 
 <br>
 
